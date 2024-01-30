@@ -34,6 +34,7 @@ WHERE A, B, C = Positive integers
 
 
 ## 	Result/ Findings 
+![](KINGS-college.jpg)
 This is where you put the insight gotten from the analysis 
 1. The company's sales have been progressively rising from the period of a specific time 
 2. It has a setback at another point due to a particular trend that was observed along the line of analysis
