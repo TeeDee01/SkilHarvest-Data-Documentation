@@ -3,13 +3,11 @@
 **Documentation Outline**
 
 - [Project Overview](#project-overview)
-
 - [Data Sources](#data-sources)
-
-[Tools Used](#tools-used)
-- Data Cleaning and Preparation
-- Data Analysis
-- Result/ Findings 
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Analysis](#data-analysis)
+- [Result Findings](#result-findings) 
 
 ## Project Overview
 ---
